@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactSaver</string>
+    <string name="title_activity_add_contact_screen">AddContactScreen</string>
+</resources>
